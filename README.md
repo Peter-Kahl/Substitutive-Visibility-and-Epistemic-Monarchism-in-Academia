@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/Peter-Kahl/Substitutive-Visibility-and-Epistemic-Monarchism-in-Academia/blob/main/luniversite.jpg?raw=true)
 
-by Peter Kahl, 19 August 2025
+by Peter Kahl, 19 June 2025
 
 ---
 
