@@ -32,7 +32,8 @@ Peter Kahl, Substitutive Visibility and Epistemic Monarchism in Academia: Fiduci
 
 ### Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd on 19 August 2025.
+First published in Great Britain by Peter Kahl on 19 June 2025.\
+2nd edition published by Lex et Ratio Ltd on 23 August 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
