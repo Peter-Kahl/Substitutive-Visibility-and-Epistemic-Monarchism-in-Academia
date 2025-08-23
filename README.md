@@ -1,10 +1,10 @@
-# Report on Times Higher Education
+# Substitutive Visibility and Epistemic Monarchism in Academia
 
-### Conflicts of Interest in Rankings, Journalism, and Consultancy
+### Fiduciary Breach and the Case for a Pedagogy of Openness
 
-#### A policy paper prepared for submission to the House of Commons Education Select Committee and published for wider public circulation.
+#### An interdisciplinary study of substitutive visibility, epistemic monarchism, and the pedagogy of openness in higher education.
 
-![alt text](https://github.com/Peter-Kahl/Report-on-Times-Higher-Education-Conflicts-of-Interest/blob/main/hoc_report.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Substitutive-Visibility-and-Epistemic-Monarchism-in-Academia/blob/main/luniversite.jpg?raw=true)
 
 by Peter Kahl, 19 August 2025
 
@@ -12,22 +12,22 @@ by Peter Kahl, 19 August 2025
 
 ### Abstract
 
-This report examines _Times Higher Education_ (THE) as a conflicted commercial intermediary whose roles in rankings, journalism, consultancy, and elite convening undermine transparency and accountability in higher education governance. Unlike universities, regulators, or charities, THE operates as a private company without fiduciary obligations to the public, yet wields quasi-regulatory influence over institutional reputations and policymaking. Through analysis of its World University Rankings, consultancy services, paywalled journalism, and the July 2025 soirée with political figures, the report demonstrates how THE exemplifies epistemic clientelism: influence and information are brokered through closed commercial and social circuits rather than open scrutiny. The paper argues for statutory transparency obligations, structural separation of functions, and recognition of THE as an interested party in parliamentary processes. These measures are necessary to ensure that higher education policy and governance are not distorted by private incentives operating behind opaque structures.
+In this essay I introduce the concept of _substitutive visibility_ to describe the displacement of distributed epistemic labour by the centralised image of executive authority in universities, and develop the related concept of _epistemic monarchism_ to capture the representational regime that results when such substitution becomes systemic. I also propose a _pedagogy of openness_ as a normative alternative to the pedagogy of authority embedded in executive-centred branding, extending fiduciary openness into the pedagogical and representational domain. I argue that these practices are not neutral features of branding but mechanisms of epistemic clientelism, whereby recognition is converted into a clientelist ‘currency’ and appropriated as symbolic capital for institutional leadership. Drawing on fiduciary theory, I show that substitutive visibility and epistemic monarchism constitute breaches of the duties of loyalty, openness, and care owed by universities as fiduciary custodians of epistemic trust. Through analogy to fiduciary case law, I demonstrate that the misallocation of epistemic credit mirrors the misappropriation of trust property. I further situate these breaches within the framework of epistemic injustice, showing how testimonial and contributory injustices are compounded by executive-centred branding. To address these distortions, I propose a programme of reform grounded in fiduciary openness: epistemic audits, fiduciary reporting, ombudspersons for representational equity, redistributive practices, and the cultivation of resistant imagination. Taken together, these measures resist the reduction of knowledge to charisma and restore the university’s legitimacy as a custodian of the epistemic commons.
 
 ### Keywords
 
-Times Higher Education, higher education governance, university rankings, conflicts of interest, consultancy, journalism, fiduciary openness, epistemic clientelism, knowledge intermediaries, transparency, accountability, parliamentary evidence
+substitutive visibility, epistemic monarchism, pedagogy of openness, epistemic clientelism, fiduciary duty, fiduciary openness, epistemic trust, epistemic injustice, testimonial injustice, contributory injustice, epistemic democracy, fiduciary breach, academic branding, epistemic commons, governance reform, representational equity, resistant imagination
 
 ---
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Report-on-Times-Higher-Education-Conflicts-of-Interest/master/Kahl_P_Report_on_Times_Higher_Education_19-AUG-2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Substitutive-Visibility-and-Epistemic-Monarchism-in-Academia/master/Kahl_P_Substitutive_Visibility_and_Epistemic_Monarchism_in_Academia_v2_23-AUG-2025.pdf)
 
 ### Cite this work:
 
 ```
-Peter Kahl, Report on Times Higher Education: Conflicts of Interest in Rankings, Journalism, and Consultancy (Lex et Ratio Ltd, 19 August 2025) <https://github.com/Peter-Kahl/Report-on-Times-Higher-Education-Conflicts-of-Interest>
+Peter Kahl, Substitutive Visibility and Epistemic Monarchism in Academia: Fiduciary Breach and the Case for a Pedagogy of Openness (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Substitutive-Visibility-and-Epistemic-Monarchism-in-Academia>
 ```
 
 ### Publisher & Licence
