@@ -27,7 +27,7 @@ Kahl, P. (2025). _Substitutive visibility and epistemic monarchism in academia: 
 ### Publisher & Licence
 
 First published in Great Britain by Peter Kahl, 2025-06-19.\
-2nd edition published by Lex et Ratio Ltd, 2025-08-23.
+v2 published by Lex et Ratio Ltd, 2025-08-23.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
